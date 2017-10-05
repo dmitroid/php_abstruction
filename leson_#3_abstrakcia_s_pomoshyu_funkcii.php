@@ -11,3 +11,5 @@ $square = function($n)
 };
 
 echo $square(3);
+
+// test git work
